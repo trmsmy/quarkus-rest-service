@@ -1,4 +1,4 @@
-# quarkus-rest-service project
+# quarkus-rest-service project v0.1
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
